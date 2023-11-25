@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kavindu Vidushan Karuna3laka
-- 🌱 I’m currently learning ...
-- 📫 reach me @karuna3laka on Insta
-- ;-)
+- 🌱 learning ...
+
 
 <!---
 karuna3laka/karuna3laka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
