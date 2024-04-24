@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Kavindu Vidushan Karuna3laka
 - 🌱 learning ...
+- Let's make magic happen ✨
+
 
 
 <!---
