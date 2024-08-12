@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kavindu Vidushan Karuna3laka
-- 🌱 learning ...
+- 🌱 learning ...@WestminsterUK @IIT
 - Let's make magic happen ✨
 
 
